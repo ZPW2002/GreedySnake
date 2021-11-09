@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Background.png</file>
+        <file>images/body1.png</file>
+        <file>images/body2.png</file>
+        <file>images/body3.png</file>
+        <file>images/body4.png</file>
+        <file>images/body5.png</file>
+        <file>images/body6.png</file>
+        <file>images/food.png</file>
+        <file>images/head1.png</file>
+        <file>images/head2.png</file>
+        <file>images/head3.png</file>
+        <file>images/head4.png</file>
+        <file>images/score.png</file>
+        <file>images/tail1.png</file>
+        <file>images/tail2.png</file>
+        <file>images/tail3.png</file>
+        <file>images/tail4.png</file>
+        <file>sound/backgroundMusic.wav</file>
+        <file>sound/get.wav</file>
+    </qresource>
+</RCC>
